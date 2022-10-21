@@ -1,6 +1,8 @@
 # Electronic, Digital, and Microcontroller Intergration
 
 
+
+
 ## Software tools
 
 > All software tools here support only `Windows`.
@@ -57,3 +59,8 @@ To compile the `main.c` to `firmware.hex`, the following steps are required:
 
 4) Run the simulator and check the result.
 
+---
+
+## Playlist
+
+:movie_camera: [Videos](https://www.youtube.com/playlist?list=PLBPFpqyTjzeWsge9tuf4tEHGgACNszVyX)
