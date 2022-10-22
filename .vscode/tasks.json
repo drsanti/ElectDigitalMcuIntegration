@@ -1,0 +1,17 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "build",
+			"type": "shell",
+			"command": "ecc-pic24-cli -build",
+			"presentation": {
+				"clear": true,
+				"focus": true
+			},
+			"options": {
+				"cwd": "${workspaceFolder}/examples/basics/ex01_template"
+			}
+		}
+	]
+}
