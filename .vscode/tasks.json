@@ -10,7 +10,7 @@
 				"focus": true
 			},
 			"options": {
-				"cwd": "${workspaceFolder}/examples/basics/ex01_template"
+				"cwd": "${workspaceFolder}/examples/basics/ex04_basic_c"
 			}
 		}
 	]
