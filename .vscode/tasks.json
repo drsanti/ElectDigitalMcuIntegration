@@ -10,7 +10,7 @@
 				"focus": true
 			},
 			"options": {
-				"cwd": "${workspaceFolder}/examples/basics/ex04_basic_c"
+				"cwd": "${workspaceFolder}/examples/basics/ex05_software_logic_gates"
 			}
 		}
 	]

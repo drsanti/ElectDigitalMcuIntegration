@@ -48,7 +48,8 @@
 		"SSID",
 		"TRIS",
 		"TXIE",
-		"Uartx"
+		"Uartx",
+		"XNOR"
 	],
 	"editor.formatOnPaste": false,
 	"editor.formatOnSave": false,
